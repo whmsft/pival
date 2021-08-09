@@ -1,4 +1,7 @@
 # pival
+
+[![Downloads](https://pepy.tech/badge/pival/month)](https://pepy.tech/project/pival/month)
+
 python module for pi's value!
 
 now joining the race for pi's looooong value!
